@@ -1,6 +1,7 @@
+## Youtube MP3 Downloader
 This project was bootstrapped with [vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
